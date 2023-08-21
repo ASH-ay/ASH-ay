@@ -27,7 +27,7 @@ Version Control and Git:
 Getting comfortable with Git commands and workflows.
 Managing repositories, branches, commits, and pull requests.
 
-Projects
+Projects:
 
 I believe in learning by doing, and here are a couple of projects I'm working on:
 Personal Portfolio Website - Building a showcase of my skills, projects, and experiences to impress the digital world.
